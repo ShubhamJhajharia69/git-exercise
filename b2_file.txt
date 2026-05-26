@@ -1,2 +1,3 @@
 b2 specific file
 Modified in b3
+Modified b2

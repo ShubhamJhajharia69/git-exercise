@@ -1,1 +1,2 @@
 Conflict line from b3
+Modified initial
